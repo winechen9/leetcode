@@ -1,4 +1,4 @@
-package forusall;
+//package forusall;
 import java.util.*;
 
 public class findLeaders {
