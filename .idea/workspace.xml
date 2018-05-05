@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3b6c8b0-5cf5-4646-9803-51333233f5e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Subarray_Sum_Equals_K_560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coin_Change_322.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/removeDuplicateString.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,15 +36,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Range_Sum_Query_Mutable_307.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Range_Sum_Query_Mutable_307.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="220">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <element signature="e#1011#1012#0" expanded="true" />
                 <element signature="e#1047#1048#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Coin_Change_322.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Coin_Change_322.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -82,6 +89,7 @@
         <option value="$PROJECT_DIR$/Range_Sum_Query_2D_Mutable_308.java" />
         <option value="$PROJECT_DIR$/Subarray_Sum_Equals_K_560.java" />
         <option value="$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java" />
+        <option value="$PROJECT_DIR$/Coin_Change_322.java" />
       </list>
     </option>
   </component>
@@ -331,12 +339,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="220">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <element signature="e#1011#1012#0" expanded="true" />
             <element signature="e#1047#1048#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coin_Change_322.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
         </state>
       </provider>
     </entry>
