@@ -48,4 +48,53 @@ public class Range_Sum_Query_Mutable_307 {
         }
         return sum;
     }
+
+    /*
+    class NumArray {
+    int[] nums;
+    int[] bit;
+    public NumArray(int[] nums) {
+        this.nums = nums;
+        if(nums.length == 0) return;
+        int length = 1;
+        for(int i = 0;  i < nums.length; i++){
+            if(Math.pow(2, i) >= nums.length){
+                length = (int)Math.pow(2, i);
+                break;
+            }
+        }
+        this.bit = new int[2 * length - 1];
+        buildTree(nums, bit, 0, nums.length - 1, 0);
+    }
+    public void buildTree(int[] nums, int[] bit, int start, int end, int pos){
+        if(start == end){
+            bit[pos] = nums[start];
+            return;
+        }
+        int mid = start + (end - start)/2;
+        buildTree(nums, bit, start, mid, 2 * pos + 1);
+        buildTree(nums, bit, mid + 1, end, 2 * pos + 2);
+        bit[pos] = bit[2 * pos + 1] + bit[2 * pos + 2];
+    }
+    public void update(int i, int val) {
+        // nums[i] = val;
+        // buildTree(nums, bit, 0, nums.length - 1, 0);
+        //update(nums, bit, i, val, )好像优化不了 = =
+    }
+
+    public int sumRange(int i, int j) {
+        return helper(nums, bit, i, j, 0, nums.length - 1, 0);
+    }
+    public int helper(int[] nums, int[] bit, int low, int high, int curStart, int curEnd, int pos){
+        if(low <= curStart && high >= curEnd){
+            return bit[pos];
+        }
+        if(low > curEnd || high < curStart){
+            return 0;
+        }
+        int mid = curStart + (curEnd - curStart)/2;
+        return helper(nums, bit, low, high, curStart, mid, 2 * pos + 1) + helper(nums, bit, low, high, mid + 1, curEnd, 2 * pos + 2);
+    }
+}
+     */
 }
