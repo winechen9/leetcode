@@ -22,7 +22,7 @@ public class findLeaders {
     只有长度为3的子数组是+1之后的，其他的元素保持不变，这样第一次就是在2 3 4 3 1 2里面找。
      */
 
-    public int[] solution(int K, int M, int[] A) {
+    public static int[] solution(int K, int M, int[] A) {
         // write your code in Java SE 8
         if(A.length == 0 || A == null) return new int[0];
         int len = A.length;
@@ -81,5 +81,6 @@ public class findLeaders {
         for (int cur : result) {
             System.out.println(cur);
         }
+        int[] a = solution(2,2, A);
     }
 }
