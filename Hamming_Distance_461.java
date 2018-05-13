@@ -21,15 +21,13 @@ public class Hamming_Distance_461 {
     The above arrows point to positions where the corresponding bits are different.
      */
     public int hammingDistance(int x, int y) {
-        int ans = 0;
-        while (x != 0 || y != 0) {
-            if (x % 2 != y % 2) {
-                ans++;
-            }
-            x = x / 2;
-            y = y / 2;
+        int r = x ^ y;
+        int count = 0;
+        while(r > 0){
+            if((r & 1) == 1) count++;
+            r >>= 1;
         }
-        return ans;
+        return count;
     }
     /*
     参考答案
