@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3b6c8b0-5cf5-4646-9803-51333233f5e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Longest_Increasing_Path_in_a_Matrix_329.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hamming_Distance_461.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Longest_Substring_With_At_Most_k_Distinct_Characters_340.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,26 +53,26 @@
       <file leaf-file-name="Wiggle_Sort_II_324.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wiggle_Sort_II_324.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
+            <state relative-caret-position="446">
               <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Flatten_Nested_List_Iterator_341.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flatten_Nested_List_Iterator_341.java">
+      <file leaf-file-name="Longest_Substring_With_At_Most_k_Distinct_Characters_340.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Longest_Substring_With_At_Most_k_Distinct_Characters_340.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="34">
+              <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Longest_Increasing_Path_in_a_Matrix_329.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Longest_Increasing_Path_in_a_Matrix_329.java">
+      <file leaf-file-name="Hamming_Distance_461.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hamming_Distance_461.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="141">
+              <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -115,12 +116,14 @@
         <option value="$PROJECT_DIR$/Top_K_Frequent_Element_347.java" />
         <option value="$PROJECT_DIR$/Design_Tic_Tac_Toc_348.java" />
         <option value="$PROJECT_DIR$/Longest_Increasing_Path_in_a_Matrix_329.java" />
+        <option value="$PROJECT_DIR$/Longest_Substring_With_At_Most_k_Distinct_Characters_340.java" />
+        <option value="$PROJECT_DIR$/Hamming_Distance_461.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1156" />
-    <option name="y" value="134" />
+    <option name="x" value="-1244" />
+    <option name="y" value="146" />
     <option name="width" value="1216" />
     <option name="height" value="641" />
   </component>
@@ -255,12 +258,21 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-1156" y="134" width="1216" height="641" extended-state="0" />
+    <frame x="-1244" y="146" width="1216" height="641" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3290441" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -273,6 +285,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17035775" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -285,11 +298,15 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -587,13 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wiggle_Sort_II_324.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Top_K_Frequent_Element_347.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -608,6 +618,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Path_in_a_Matrix_329.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Flatten_Nested_List_Iterator_341.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -615,10 +632,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Longest_Increasing_Path_in_a_Matrix_329.java">
+    <entry file="file://$PROJECT_DIR$/Wiggle_Sort_II_324.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="446">
+          <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Substring_With_At_Most_k_Distinct_Characters_340.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hamming_Distance_461.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
         </state>
       </provider>
     </entry>
