@@ -73,4 +73,4 @@ public class Insert_Delete_GetRandom_O1_380 {
         return list.get(rmd.nextInt(list.size()));
     }
 }
-}
+
