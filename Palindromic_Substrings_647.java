@@ -22,5 +22,5 @@ public class Palindromic_Substrings_647 {
         return count;
     }
 
-    
+
 }

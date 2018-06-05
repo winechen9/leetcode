@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3b6c8b0-5cf5-4646-9803-51333233f5e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary_Tree_Upside_Down_156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diameter_of_Binary_Tree_543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encode_and_Decode_TinyURL_535.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Find_All_Anagrams_in_a_String_438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Insert_Interval_57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Island_Perimeter_463.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jump_Game_II_45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maximum_Binary_Tree_654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Palindromic_Substrings_647.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Product_of_Array_Except_Self_238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serialize_and_Deserialize_Binary_Tree_297.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trapping_Rain_Water_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convert_BST_to_Greater_Tree_538.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Temperatures_739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Snake_Game_353.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implement_Queue_using_Stacks_232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Longest_Valid_Parentheses_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Max_Stack_716.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subtree_of_Another_Tree_572.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zigzag_Iterator_281.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Perfect_Squares_279.java" beforeDir="false" afterPath="$PROJECT_DIR$/Perfect_Squares_279.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindromic_Substrings_647.java" beforeDir="false" afterPath="$PROJECT_DIR$/Palindromic_Substrings_647.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,69 +23,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Range_Sum_Query_Mutable_307.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java">
+      <file leaf-file-name="Longest_Valid_Parentheses_32.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Longest_Valid_Parentheses_32.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
-              <folding>
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1053#1054#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Insert_Delete_GetRandom_O1_380.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Insert_Delete_GetRandom_O1_380.java">
+      <file leaf-file-name="Convert_BST_to_Greater_Tree_538.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Convert_BST_to_Greater_Tree_538.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="187">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Counting_Bits_338.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Counting_Bits_338.java">
+      <file leaf-file-name="Implement_Queue_using_Stacks_232.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Implement_Queue_using_Stacks_232.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Linked_List_Random_Node_382.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linked_List_Random_Node_382.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Diameter_of_Binary_Tree_543.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Diameter_of_Binary_Tree_543.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Find_All_Anagrams_in_a_String_438.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Find_All_Anagrams_in_a_String_438.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Palindromic_Substrings_647.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Palindromic_Substrings_647.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="476">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -109,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/removeDuplicateString.java" />
         <option value="$PROJECT_DIR$/Trapping_Rain_Water_II_407.java" />
         <option value="$PROJECT_DIR$/Range_Sum_Query_2D_Mutable_308.java" />
         <option value="$PROJECT_DIR$/Subarray_Sum_Equals_K_560.java" />
@@ -153,12 +107,21 @@
         <option value="$PROJECT_DIR$/Trapping_Rain_Water_42.java" />
         <option value="$PROJECT_DIR$/Find_All_Anagrams_in_a_String_438.java" />
         <option value="$PROJECT_DIR$/Palindromic_Substrings_647.java" />
+        <option value="$PROJECT_DIR$/Design_Snake_Game_353.java" />
+        <option value="$PROJECT_DIR$/Zigzag_Iterator_281.java" />
+        <option value="$PROJECT_DIR$/Daily_Temperatures_739.java" />
+        <option value="$PROJECT_DIR$/Longest_Valid_Parenthese_32.java" />
+        <option value="$PROJECT_DIR$/Longest_Valid_Parentheses_32.java" />
+        <option value="$PROJECT_DIR$/Implement_Queue_using_Stacks_232.java" />
+        <option value="$PROJECT_DIR$/Max_Stack_716.java" />
+        <option value="$PROJECT_DIR$/Convert_BST_to_Greater_Tree_538.java" />
+        <option value="$PROJECT_DIR$/Subtree_of_Another_Tree_572.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1233" />
-    <option name="y" value="68" />
+    <option name="x" value="49" />
+    <option name="y" value="347" />
     <option name="width" value="1216" />
     <option name="height" value="641" />
   </component>
@@ -170,7 +133,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,8 +147,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,7 +266,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1233" y="68" width="1216" height="641" extended-state="0" />
+    <frame x="49" y="347" width="1216" height="641" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -319,7 +282,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18057922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19080068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -340,64 +303,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Range_Sum_Query_2D_Mutable_308.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coin_Change_322.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trapping_Rain_Water_II_407.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trapping_Rain_Water_II_407.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/removeDuplicateString.java" />
     <entry file="file://$PROJECT_DIR$/Trapping_Rain_Water_II_407.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -510,28 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1235">
           <caret line="90" column="43" lean-forward="true" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
-          <folding>
-            <element signature="e#1540#1541#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
-          <folding>
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Insert_Delete_GetRandom_O1_380.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
@@ -578,9 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,20 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked_List_Random_Node_382.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Diameter_of_Binary_Tree_543.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -710,14 +580,112 @@
     <entry file="file://$PROJECT_DIR$/Find_All_Anagrams_in_a_String_438.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design_Snake_Game_353.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1162">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Palindromic_Substrings_647.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked_List_Random_Node_382.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zigzag_Iterator_281.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diameter_of_Binary_Tree_543.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implement_Queue_using_Stacks_232.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily_Temperatures_739.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Insert_Delete_GetRandom_O1_380.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+          <folding>
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Max_Stack_716.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-407">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert_BST_to_Greater_Tree_538.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Subtree_of_Another_Tree_572.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest_Valid_Parentheses_32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
