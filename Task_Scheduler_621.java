@@ -32,6 +32,7 @@ public class Task_Scheduler_621 {
                 }
                 times++;
                 if (pq.isEmpty() && tmp.size() == 0) break;//所有任务在这个n interval完成之前就做完了
+                start++;
             }
             for (int t : tmp) {
                 pq.offer(t);
