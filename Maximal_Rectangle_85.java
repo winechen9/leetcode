@@ -47,6 +47,11 @@ public class Maximal_Rectangle_85 {
     }
 
     //不用辅助函数，不用stack，不过也是把84题融合在一起
+    /*
+    height means from top to this position, there are how many '1'
+left means at current position, what is the index of left bound of the rectangle with height[j]. 0 means at this position, no rectangle. (现在这个矩形的左边的下标)
+right means the right bound index of this rectangle. 'n' means no rectangle.
+     */
     public int maximalRectangle2(char[][] matrix) {
         if (matrix == null || matrix.length == 0) {
             return 0;

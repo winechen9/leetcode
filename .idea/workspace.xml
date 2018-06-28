@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3b6c8b0-5cf5-4646-9803-51333233f5e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Maximal_Rectangle_85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Partition_Equal_Subset_Sum_416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read_N_Characters_Given_Read4_157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shortest_Unsorted_Continuous_Subarray_581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Target_Sum_494.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_Scheduler_621.java" beforeDir="false" afterPath="$PROJECT_DIR$/Task_Scheduler_621.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maximal_Rectangle_85.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maximal_Rectangle_85.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +40,7 @@
       <file leaf-file-name="Task_Scheduler_621.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Task_Scheduler_621.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
+            <state relative-caret-position="527">
               <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -46,11 +49,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Maximal_Rectangle_85.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Maximal_Rectangle_85.java">
+      <file leaf-file-name="Target_Sum_494.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target_Sum_494.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Partition_Equal_Subset_Sum_416.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Partition_Equal_Subset_Sum_416.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Read_N_Characters_Given_Read4_157.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Read_N_Characters_Given_Read4_157.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,15 +110,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Implement_Queue_using_Stacks_232.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Implement_Queue_using_Stacks_232.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -100,16 +119,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(a,b)</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Range_Sum_Query_Mutable_307.java" />
-        <option value="$PROJECT_DIR$/Fizz_Buzz_412.java" />
-        <option value="$PROJECT_DIR$/findLeaders.java" />
-        <option value="$PROJECT_DIR$/Wiggle_Sort_II_324.java" />
         <option value="$PROJECT_DIR$/Increasing_Triplet_Subsequence_334.java" />
         <option value="$PROJECT_DIR$/Flatten_Nested_List_Iterator_341.java" />
         <option value="$PROJECT_DIR$/Top_K_Frequent_Element_347.java" />
@@ -157,12 +177,16 @@
         <option value="$PROJECT_DIR$/Maximal_Square_221.java" />
         <option value="$PROJECT_DIR$/Task_Scheduler_621.java" />
         <option value="$PROJECT_DIR$/Maximal_Rectangle_85.java" />
+        <option value="$PROJECT_DIR$/Target_Sum_494.java" />
+        <option value="$PROJECT_DIR$/Shortest_Unsorted_Continuous_Subarray_581.java" />
+        <option value="$PROJECT_DIR$/Partition_Equal_Subset_Sum_416.java" />
+        <option value="$PROJECT_DIR$/Read_N_Characters_Given_Read4_157.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="26" />
-    <option name="y" value="76" />
+    <option name="x" value="-1178" />
+    <option name="y" value="145" />
     <option name="width" value="1216" />
     <option name="height" value="641" />
   </component>
@@ -185,12 +209,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="416&#9;FILE&#9;file:///Users/zheyingchen/dev/leetcode/Partition_Equal_Subset_Sum_416.java" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -307,7 +332,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="76" width="1216" height="641" extended-state="0" />
+    <frame x="-1178" y="145" width="1216" height="641" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -323,7 +348,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20102215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21465077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -348,34 +373,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Coin_Change_322.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="31" column="62" lean-forward="true" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fizz_Buzz_412.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/findLeaders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="77" column="23" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Increasing_Triplet_Subsequence_334.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Top_K_Frequent_Element_347.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -711,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Task_Scheduler_621.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
+        <state relative-caret-position="527">
           <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -719,10 +716,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Shortest_Unsorted_Continuous_Subarray_581.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target_Sum_494.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Maximal_Rectangle_85.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="446">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Partition_Equal_Subset_Sum_416.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read_N_Characters_Given_Read4_157.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
